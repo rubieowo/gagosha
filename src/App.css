@@ -1,0 +1,10 @@
+.bg-img {
+    height: 0;
+    width: 0;
+}
+
+.bg-img > img {
+    filter: brightness(43%);
+    width: 89rem;
+    height: 50rem;
+}
