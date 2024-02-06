@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gagosha/static/css/main.364d43f2.css",
+    "main.js": "/gagosha/static/js/main.9d354e12.js",
+    "static/media/bg-img.jpg": "/gagosha/static/media/bg-img.f898a5d6e3e75f37c66a.jpg",
+    "static/media/larger-logo-removebg-preview.png": "/gagosha/static/media/larger-logo-removebg-preview.081d834553e88af9038f.png",
+    "static/media/accessories.jpg": "/gagosha/static/media/accessories.b54efd0a4a3c6073fe3d.jpg",
+    "static/media/contact.jpg": "/gagosha/static/media/contact.788546507eb436d013df.jpg",
+    "index.html": "/gagosha/index.html",
+    "static/media/getFetch.cjs": "/gagosha/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.364d43f2.css.map": "/gagosha/static/css/main.364d43f2.css.map",
+    "main.9d354e12.js.map": "/gagosha/static/js/main.9d354e12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.364d43f2.css",
+    "static/js/main.9d354e12.js"
+  ]
+}
