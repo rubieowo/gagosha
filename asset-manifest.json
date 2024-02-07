@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/gagosha/static/css/main.97a81559.css",
-    "main.js": "/gagosha/static/js/main.05e25bee.js",
+    "main.css": "/gagosha/static/css/main.e92e973f.css",
+    "main.js": "/gagosha/static/js/main.687e539c.js",
     "static/media/bg-img.jpg": "/gagosha/static/media/bg-img.f898a5d6e3e75f37c66a.jpg",
+    "static/media/item5.jpg": "/gagosha/static/media/item5.696a4903654286856c7e.jpg",
     "static/media/larger-logo-removebg-preview.png": "/gagosha/static/media/larger-logo-removebg-preview.2ef356c08c284affea1b.png",
+    "static/media/item2.jpg": "/gagosha/static/media/item2.38be15d951e9aca5a9a4.jpg",
+    "static/media/item4.jpg": "/gagosha/static/media/item4.372d007127b3bc7f69e0.jpg",
+    "static/media/item3.jpg": "/gagosha/static/media/item3.de67d02f246fe3c4915d.jpg",
+    "static/media/item1.jpg": "/gagosha/static/media/item1.f0f93b625c6b65227be7.jpg",
     "static/media/accessories.jpg": "/gagosha/static/media/accessories.b54efd0a4a3c6073fe3d.jpg",
     "static/media/contact.jpg": "/gagosha/static/media/contact.788546507eb436d013df.jpg",
     "index.html": "/gagosha/index.html",
     "static/media/getFetch.cjs": "/gagosha/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.97a81559.css.map": "/gagosha/static/css/main.97a81559.css.map",
-    "main.05e25bee.js.map": "/gagosha/static/js/main.05e25bee.js.map"
+    "main.e92e973f.css.map": "/gagosha/static/css/main.e92e973f.css.map",
+    "main.687e539c.js.map": "/gagosha/static/js/main.687e539c.js.map"
   },
   "entrypoints": [
-    "static/css/main.97a81559.css",
-    "static/js/main.05e25bee.js"
+    "static/css/main.e92e973f.css",
+    "static/js/main.687e539c.js"
   ]
 }
