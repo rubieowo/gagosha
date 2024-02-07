@@ -3,6 +3,9 @@ nav {
 }
 
 
+.nav-item {
+    color: white;
+}
 
 .navbar-brand > img {
     width: 8rem;
@@ -57,7 +60,8 @@ h1:hover {
     display: flex;
     gap: 1rem;
     width: 100%;
-    margin-top: 10rem;
+    margin-top: 15rem;
+    margin-left: 1.5rem;
 }
 
 .item {
@@ -74,6 +78,7 @@ h1:hover {
         display: inline-block;
         width: 100%;
     }
+
     .item {
         width: 100%;
         margin-left: 0;
@@ -84,13 +89,29 @@ h1:hover {
     .item > p {
         display: inline;
     }
+
+    #card-container {
+        display: inline-block;
+        width: 100%;
+    }
+
+    .each-card {
+        width: 100%;
+        margin-left: 0;
+        display: inline;
+        height: 20rem;
+    }
+
+    .accessories-title {
+        display: inline;
+    }
 }
 
 .item:hover {
     background-color: rgb(87, 8, 87);
 }
 
-.item > p {
+.item > p, .accessories-title {
     font-weight: 700;
     font-size: 2rem;
     display: block;
@@ -98,7 +119,7 @@ h1:hover {
     transition-duration: 0.3s;
 }
 
-.item > p:hover {
+.item > p:hover, .accessories-title:hover {
     color: lightgreen;
 }
 
@@ -138,4 +159,39 @@ h1:hover {
 
 .contact {
     transition-duration: 0.3s;
+}
+
+#card-container {
+    display: flex;
+    gap: 2rem;
+    margin-left: 1.5rem;
+    margin-right: 3rem;
+    margin-top: 9rem;
+    flex-direction: row;
+    width: 100%;
+    height: 20rem;
+    margin-bottom: 25rem;
+}
+
+.each-card {
+    width: 100%;
+    height: 100%;
+}
+
+.accessories-text {
+    font-weight: 400;
+    font-size: 2rem;
+    display: block;
+    color: white;
+    transition-duration: 0.3s;
+}
+
+.accessories-text:hover {
+    color: lightgreen;
+}
+
+.card-img {
+    display: inline-flex;  
+    width: 100%;
+    height: 100%;
 }
