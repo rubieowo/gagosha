@@ -36,8 +36,8 @@ function Navbar(){
       </div>
       <div className='grid-thing'>
         <div className='item'>
-        <a className='gay' href="#card-container"><img src={accessories}></img></a>
-        <p>აქსესუარები</p>
+          <a className='gay' href="#card-container"><img src={accessories}></img></a>
+          <p>აქსესუარები</p>
         </div>
         <div className='item'>
           <a className='gay' href='#contact'><img src={contact}></img></a>
@@ -48,7 +48,7 @@ function Navbar(){
       <br></br>
       <br></br>
       <hr></hr>
-      <div id='card-container'>
+      <div id='card-container' className='main-container'>
         <div className='each-card'>
           <img className="card-img" src={item1}></img>
           <p className='accessories-text'>მანქანის სანომრეები</p>

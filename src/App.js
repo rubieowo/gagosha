@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './components/Navbar'
 import './App.css'
-import bg from './images/bg-img.jpg'
+import bg from './images/bg-img2.jpg'
 
 function App() {
   return (
