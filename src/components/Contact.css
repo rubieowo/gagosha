@@ -5,18 +5,18 @@
     text-align: center;
 }
 
-img {
+.contact-image{
     width: 14rem;
     height: 14rem;
 }
 
-p {
+.contact-text {
     color: white;
     font-weight: 600;
     font-size: 1.8rem;
     transition-duration: 0.3s;
 }
 
-p:hover {
+.contact-text:hover {
     color: lightgreen;
 }
