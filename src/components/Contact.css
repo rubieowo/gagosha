@@ -10,13 +10,13 @@
     height: 14rem;
 }
 
-.contact-text {
+.contact-text2 {
     color: white;
     font-weight: 600;
     font-size: 1.8rem;
     transition-duration: 0.3s;
 }
 
-.contact-text:hover {
+.contact-text2:hover {
     color: lightgreen;
 }
