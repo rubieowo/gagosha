@@ -1,7 +1,10 @@
 import React from 'react'
-import Navbar from './components/Navbar'
 import './App.css'
 import bg from './images/bg-img2.jpg'
+import Navbar from './components/Navbar'
+import Description from './components/Description'
+import Buttons from './components/Buttons'
+import Accessories from './components/Accessories'
 
 function App() {
   return (
@@ -10,6 +13,9 @@ function App() {
         <img src={bg}></img>
       </div>
       <Navbar />
+      <Description />
+      <Buttons />
+      <Accessories />
     </div>
   )
 }

@@ -1,0 +1,57 @@
+.everything-wrapper {
+    margin-top: 16rem;
+}
+
+.button-wrapper {
+    display: flex;
+    gap: 1.5rem;
+    margin-left: 1.5rem;
+}
+
+.item {
+    width: 48%;
+    text-align: center;
+    transition-duration: 0.3s;
+    height: 30rem;
+    flex-shrink: 0;
+}
+
+.item:hover {
+    background-color: rgba(54, 230, 19, 0.623);
+}
+
+.imga {
+    filter: brightness(43%);
+    height: 100%;
+    width: 100%;
+}
+
+.imga:hover {
+    opacity: 20%;
+}
+.text {
+    color: white;
+    font-weight: 700;
+    font-size: 1.8rem;
+    transition-duration: 0.3s;
+}
+
+.text:hover {
+    color: lightgreen;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .button-wrapper {
+        display: inline-block;
+        width: 100%;
+    }
+
+    .item {
+        margin-left: 0;
+        display: inline;
+        width: 100%;
+        width: 20rem;
+    }
+}
+    
