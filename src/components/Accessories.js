@@ -38,6 +38,9 @@ function Accessories() {
                 <div className="carousel-item">
                     <img className="d-block w-100" src={item5} alt="Fifth slide"></img>
                 </div>
+                <div className="carousel-item">
+                    <img className="d-block w-100" src={item5} alt="Fifth slide"></img>
+                </div>
             </div>
             <a onClick={increaseIndex} className="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
                 <span className="carousel-control-next-icon" aria-hidden="true"></span>
