@@ -5,6 +5,7 @@ import Navbar from './components/Navbar'
 import Description from './components/Description'
 import Buttons from './components/Buttons'
 import Accessories from './components/Accessories'
+import Contact from './components/Contact'
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Description />
       <Buttons />
       <Accessories />
+      <Contact />
     </div>
   )
 }
