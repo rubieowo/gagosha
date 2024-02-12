@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gagosha/static/css/main.c84bab74.css",
+    "main.css": "/gagosha/static/css/main.fd619817.css",
     "main.js": "/gagosha/static/js/main.ba718920.js",
     "static/media/item5.jpg": "/gagosha/static/media/item5.696a4903654286856c7e.jpg",
     "static/media/item6.jpg": "/gagosha/static/media/item6.0ddb84f60dea011cb5d5.jpg",
@@ -14,11 +14,11 @@
     "static/media/contact.jpg": "/gagosha/static/media/contact.788546507eb436d013df.jpg",
     "index.html": "/gagosha/index.html",
     "static/media/getFetch.cjs": "/gagosha/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.c84bab74.css.map": "/gagosha/static/css/main.c84bab74.css.map",
+    "main.fd619817.css.map": "/gagosha/static/css/main.fd619817.css.map",
     "main.ba718920.js.map": "/gagosha/static/js/main.ba718920.js.map"
   },
   "entrypoints": [
-    "static/css/main.c84bab74.css",
+    "static/css/main.fd619817.css",
     "static/js/main.ba718920.js"
   ]
 }
