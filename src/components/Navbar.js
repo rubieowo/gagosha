@@ -13,7 +13,7 @@ function Navbar() {
             <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div className="navbar-nav">
                 <a className="nav-item nav-link active" href="#accessories">აქსესუარები <span class="sr-only">(current)</span></a>
-                <a className="nav-item nav-link active" href="#">კონტაქტი</a>
+                <a className="nav-item nav-link active" href="#contact">კონტაქტი</a>
                 </div>
             </div>
             </nav>

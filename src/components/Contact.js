@@ -5,8 +5,8 @@ import logo from '../images/ravira.png'
 
 export default function Contact() {
   return (
-    <div className='contact-div'>
-        <img src={logo}></img>
+    <div className='contact-div' id="contact">
+        <a href="https://www.facebook.com/profile.php?id=100064539442989" target='_blank'><img src={logo}></img></a>
         <p>571 33 35 59 Whatsapp/Viber</p>
     </div>
   )

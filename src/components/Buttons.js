@@ -12,7 +12,7 @@ function Buttons() {
                 <p className='text'>აქსესუარები</p>
             </div>
             <div className='item'>
-                <a href='#'><img className='imga' src={Contact}></img></a>
+                <a href='#contact'><img className='imga' src={Contact}></img></a>
                 <p className='text'>კონტაქტი</p>
 
             </div>
