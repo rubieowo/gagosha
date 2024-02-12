@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gagosha/static/css/main.c84bab74.css",
-    "main.js": "/gagosha/static/js/main.6c0ea928.js",
+    "main.js": "/gagosha/static/js/main.abc7205b.js",
     "static/media/item5.jpg": "/gagosha/static/media/item5.696a4903654286856c7e.jpg",
     "static/media/ravira.png": "/gagosha/static/media/ravira.2ef356c08c284affea1b.png",
     "static/media/bg-img2.jpg": "/gagosha/static/media/bg-img2.c544e653bdb9474c5c21.jpg",
@@ -14,10 +14,10 @@
     "index.html": "/gagosha/index.html",
     "static/media/getFetch.cjs": "/gagosha/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.c84bab74.css.map": "/gagosha/static/css/main.c84bab74.css.map",
-    "main.6c0ea928.js.map": "/gagosha/static/js/main.6c0ea928.js.map"
+    "main.abc7205b.js.map": "/gagosha/static/js/main.abc7205b.js.map"
   },
   "entrypoints": [
     "static/css/main.c84bab74.css",
-    "static/js/main.6c0ea928.js"
+    "static/js/main.abc7205b.js"
   ]
 }
