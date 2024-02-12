@@ -5,6 +5,7 @@ import item2 from '../images/item2.jpg'
 import item3 from '../images/item3.jpg'
 import item4 from '../images/item4.jpg'
 import item5 from '../images/item5.jpg'
+import item6 from '../images/item6.jpg'
 
 function Accessories() {
     const accessoriesList = ['მაქანის სანოომრები', 'მაგნიტური ტელეფონის დამჭერი', 'სარკეების საწვიმრები', 'ტორპედოს ხალიჩა', 'ტელეფონის დამჭერი', 'მანქანის მტვერსასრუტი']
