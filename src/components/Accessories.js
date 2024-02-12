@@ -8,7 +8,7 @@ import item5 from '../images/item5.jpg'
 import item6 from '../images/item6.jpg'
 
 function Accessories() {
-    const accessoriesList = ['მაქანის სანოომრები', 'მაგნიტური ტელეფონის დამჭერი', 'სარკეების საწვიმრები', 'ტორპედოს ხალიჩა', 'ტელეფონის დამჭერი', 'მანქანის მტვერსასრუტი']
+    const accessoriesList = ['მანქანის სანოომრები', 'მაგნიტური ტელეფონის დამჭერი', 'სარკეების საწვიმრები', 'ტორპედოს ხალიჩა', 'ტელეფონის დამჭერი', 'მანქანის მტვერსასრუტი']
     const [accessories, setAccessories ] = useState(0);
 
     function increaseIndex() {
@@ -40,7 +40,7 @@ function Accessories() {
                     <img className="d-block w-100" src={item5} alt="Fifth slide"></img>
                 </div>
                 <div className="carousel-item">
-                    <img className="d-block w-100" src={item6} alt="Fifth slide"></img>
+                    <img className="d-block w-100" src={item6} alt="Sixth slide"></img>
                 </div>
             </div>
             <a onClick={increaseIndex} className="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
