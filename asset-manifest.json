@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/gagosha/static/css/main.fd619817.css",
-    "main.js": "/gagosha/static/js/main.ba718920.js",
-    "static/media/item5.jpg": "/gagosha/static/media/item5.696a4903654286856c7e.jpg",
-    "static/media/item6.jpg": "/gagosha/static/media/item6.0ddb84f60dea011cb5d5.jpg",
-    "static/media/ravira.png": "/gagosha/static/media/ravira.2ef356c08c284affea1b.png",
-    "static/media/bg-img2.jpg": "/gagosha/static/media/bg-img2.c544e653bdb9474c5c21.jpg",
-    "static/media/item2.jpg": "/gagosha/static/media/item2.38be15d951e9aca5a9a4.jpg",
-    "static/media/item4.jpg": "/gagosha/static/media/item4.372d007127b3bc7f69e0.jpg",
-    "static/media/item3.jpg": "/gagosha/static/media/item3.de67d02f246fe3c4915d.jpg",
-    "static/media/item1.jpg": "/gagosha/static/media/item1.f0f93b625c6b65227be7.jpg",
-    "static/media/accessories.jpg": "/gagosha/static/media/accessories.b54efd0a4a3c6073fe3d.jpg",
-    "static/media/contact.jpg": "/gagosha/static/media/contact.788546507eb436d013df.jpg",
-    "index.html": "/gagosha/index.html",
-    "static/media/getFetch.cjs": "/gagosha/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.fd619817.css.map": "/gagosha/static/css/main.fd619817.css.map",
-    "main.ba718920.js.map": "/gagosha/static/js/main.ba718920.js.map"
+    "main.css": "/aksesuarebi.com.ge/static/css/main.fd619817.css",
+    "main.js": "/aksesuarebi.com.ge/static/js/main.0ef8a8eb.js",
+    "static/media/item5.jpg": "/aksesuarebi.com.ge/static/media/item5.696a4903654286856c7e.jpg",
+    "static/media/item6.jpg": "/aksesuarebi.com.ge/static/media/item6.0ddb84f60dea011cb5d5.jpg",
+    "static/media/ravira.png": "/aksesuarebi.com.ge/static/media/ravira.2ef356c08c284affea1b.png",
+    "static/media/bg-img2.jpg": "/aksesuarebi.com.ge/static/media/bg-img2.c544e653bdb9474c5c21.jpg",
+    "static/media/item2.jpg": "/aksesuarebi.com.ge/static/media/item2.38be15d951e9aca5a9a4.jpg",
+    "static/media/item4.jpg": "/aksesuarebi.com.ge/static/media/item4.372d007127b3bc7f69e0.jpg",
+    "static/media/item3.jpg": "/aksesuarebi.com.ge/static/media/item3.de67d02f246fe3c4915d.jpg",
+    "static/media/item1.jpg": "/aksesuarebi.com.ge/static/media/item1.f0f93b625c6b65227be7.jpg",
+    "static/media/accessories.jpg": "/aksesuarebi.com.ge/static/media/accessories.b54efd0a4a3c6073fe3d.jpg",
+    "static/media/contact.jpg": "/aksesuarebi.com.ge/static/media/contact.788546507eb436d013df.jpg",
+    "index.html": "/aksesuarebi.com.ge/index.html",
+    "static/media/getFetch.cjs": "/aksesuarebi.com.ge/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.fd619817.css.map": "/aksesuarebi.com.ge/static/css/main.fd619817.css.map",
+    "main.0ef8a8eb.js.map": "/aksesuarebi.com.ge/static/js/main.0ef8a8eb.js.map"
   },
   "entrypoints": [
     "static/css/main.fd619817.css",
-    "static/js/main.ba718920.js"
+    "static/js/main.0ef8a8eb.js"
   ]
 }
